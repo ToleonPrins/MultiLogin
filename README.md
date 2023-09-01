@@ -4,7 +4,6 @@ Prototype of the login screen to the online cinema application with a working lo
 # Preview
 ![Demo Screenshot](./MultiLogin/StreamFlicks.png)
 # GIF Demo
-![Alt Text](./MultiLogin/GIF.gif)
 ![Demo GIF](./MultiLogin/GIF.gif)
 
 # Video
